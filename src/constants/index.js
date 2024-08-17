@@ -3,11 +3,12 @@ import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
 
-export const HERO_CONTENT = `I am a dedicated MERN stack developer, I excel in creating robust and scalable web applications. My expertise spans front-end technologies like React.js and back-end technologies including Node.js, MySQL, and MongoDB. I am committed to leveraging my skills to develop innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a dedicated developer, I excel in creating robust and scalable web applications. My expertise spans front-end technologies like HTML, CSS JavaScript and React.js 
+. I am committed to leveraging my skills to develop innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = [{text:'I am a dedicated and versatile MERN stack developer with a passion for creating efficient and user-friendly web applications.' },
+export const ABOUT_TEXT = [{text:'I am a dedicated and versatile developer with a passion for creating efficient and user-friendly web applications.' },
 {text:'Currently, I am a senior student at the National Institute of Technology, Raipur, pursuing a Bachelor of Technology in Electronics and Communication Engineering.' },
-{text:'My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I have honed my skills in various technologies, including React.js, Node.js, MySQL, and MongoDB. Additionally, I excel in data structures and algorithms, which I have applied in multiple personal projects.' },
+{text:'My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I have honed my skills in various technologies. Additionally, I excel in data structures and algorithms, which I have applied in multiple personal projects.' },
 {text:'I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. My coding skills have earned me high ranks in competitions such as CodeChef and LeetCode, and I have achieved notable accomplishments like qualifying for the Google Girl Hackathon 2023 and earning a 5-star gold badge in C++ on HackerRank. '},
 {text:'Outside of coding, I enjoy staying active, exploring new technologies, learning new languages and trying out new adventures.'}];
 
