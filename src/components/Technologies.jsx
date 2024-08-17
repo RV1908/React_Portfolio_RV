@@ -66,12 +66,7 @@ const Technologies = () => {
         animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
           <RiReactjsLine style={{ color: "#61DAFB" }} className="text-7xl" />
         </motion.div>
-        <motion.div 
-        variants={iconVariants(4)}
-        initial="initial"
-        animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
-          <RiNodejsLine style={{ color: "#339933" }} className="text-7xl" />
-        </motion.div>
+        
       </motion.div>  
       <motion.div 
       whileInView={{opacity:1, x:0}}
@@ -83,12 +78,7 @@ const Technologies = () => {
         animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
           <RiTailwindCssLine style={{ color: "#06B6D4" }} className="text-7xl" />
         </motion.div>
-        <motion.div 
-        variants={iconVariants(5.5)}
-        initial="initial"
-        animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
-          <SiMongodb style={{ color: "#47A248" }} className="text-7xl" />
-        </motion.div>
+        
         <motion.div 
         variants={iconVariants(4.5)}
         initial="initial"
